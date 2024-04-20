@@ -16,7 +16,7 @@ namespace Domain.Entities
         public string Email {  get; set; }
         public int Celular {  get; set; }
         public string Direccion {  get; set; }
-        public string CalificacionId {  get; set; }
+        public int CalificacionId {  get; set; }
 
         public Calificacion Calificacion { get; set; }
         public Rol Rol { get; set; }
