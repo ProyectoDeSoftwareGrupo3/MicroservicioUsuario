@@ -1,17 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\UsuarioRepository\\",
+  "WorkspaceRootPath": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\source\\repos\\UsuarioRepository\\Infrastructure\\Migrations\\20240420024755_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20240420024755_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB20498-F4AB-4C95-93E6-4ECE76DA4B57}|Application\\Application.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\application\\usecases\\usuarios\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB20498-F4AB-4C95-93E6-4ECE76DA4B57}|Application\\Application.csproj|solutionrelative:application\\usecases\\usuarios\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86B7BA1-12B1-4AA1-A12E-33F9A318301D}|Domain\\Domain.csproj|c:\\users\\diego\\source\\repos\\usuariorepository\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\usuariorepository\\controllers\\calificacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|solutionrelative:usuariorepository\\controllers\\calificacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\usuariorepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|solutionrelative:usuariorepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\usuariorepository\\usuariorepository.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|solutionrelative:usuariorepository\\usuariorepository.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\usuariorepository\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|solutionrelative:usuariorepository\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B7BA1-12B1-4AA1-A12E-33F9A318301D}|Domain\\Domain.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86B7BA1-12B1-4AA1-A12E-33F9A318301D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB20498-F4AB-4C95-93E6-4ECE76DA4B57}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\usuariorepository\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C86B7BA1-12B1-4AA1-A12E-33F9A318301D}|Domain\\Domain.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B7BA1-12B1-4AA1-A12E-33F9A318301D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B7BA1-12B1-4AA1-A12E-33F9A318301D}|Domain\\Domain.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\domain\\entities\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B7BA1-12B1-4AA1-A12E-33F9A318301D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2F87DE-EFC5-40C9-9809-C4C9D6EDF3EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\infrastructure\\command\\usuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2F87DE-EFC5-40C9-9809-C4C9D6EDF3EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\command\\usuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2F87DE-EFC5-40C9-9809-C4C9D6EDF3EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\infrastructure\\query\\usuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2F87DE-EFC5-40C9-9809-C4C9D6EDF3EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\query\\usuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\usuariorepository\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B1EDA9-B96B-472E-ADBB-74B1C56A6C06}|UsuarioRepository\\UsuarioRepository.csproj|solutionrelative:usuariorepository\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2F87DE-EFC5-40C9-9809-C4C9D6EDF3EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\infrastructure\\migrations\\20240420024755_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2F87DE-EFC5-40C9-9809-C4C9D6EDF3EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240420024755_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB20498-F4AB-4C95-93E6-4ECE76DA4B57}|Application\\Application.csproj|c:\\users\\enrique\\desktop\\proyecto sofware web\\microserviciousuario\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BFB20498-F4AB-4C95-93E6-4ECE76DA4B57}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -22,28 +62,161 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240420024755_inicial.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\UsuarioRepository\\Infrastructure\\Migrations\\20240420024755_inicial.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240420024755_inicial.cs",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\UsuarioRepository\\Infrastructure\\Migrations\\20240420024755_inicial.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20240420024755_inicial.cs",
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Application\\UseCases\\Usuarios\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Usuarios\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Application\\UseCases\\Usuarios\\UsuarioServices.cs",
+              "RelativeToolTip": "Application\\UseCases\\Usuarios\\UsuarioServices.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:08:35.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.http",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\UsuarioRepository.http",
+              "RelativeDocumentMoniker": "UsuarioRepository\\UsuarioRepository.http",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\UsuarioRepository.http",
+              "RelativeToolTip": "UsuarioRepository\\UsuarioRepository.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-22T01:07:21.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Domain\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Rol.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Domain\\Entities\\Rol.cs",
+              "RelativeToolTip": "Domain\\Entities\\Rol.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T02:47:55.542Z",
+              "WhenOpened": "2024-04-22T01:07:01.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Domain\\Entities\\Calificacion.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Domain\\Entities\\Calificacion.cs",
+              "RelativeToolTip": "Domain\\Entities\\Calificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:07:01.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Infrastructure\\Command\\UsuarioCommand.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Command\\UsuarioCommand.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Infrastructure\\Command\\UsuarioCommand.cs",
+              "RelativeToolTip": "Infrastructure\\Command\\UsuarioCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:06:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Infrastructure\\Query\\UsuarioQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Query\\UsuarioQuery.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Infrastructure\\Query\\UsuarioQuery.cs",
+              "RelativeToolTip": "Infrastructure\\Query\\UsuarioQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:06:48.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "UsuarioRepository\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "UsuarioRepository\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:04:45.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CalificacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\Controllers\\CalificacionesController.cs",
+              "RelativeDocumentMoniker": "UsuarioRepository\\Controllers\\CalificacionesController.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\Controllers\\CalificacionesController.cs",
+              "RelativeToolTip": "UsuarioRepository\\Controllers\\CalificacionesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:04:31.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UsuarioRepository\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\appsettings.Development.json",
+              "RelativeToolTip": "UsuarioRepository\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T01:04:19.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\Program.cs",
+              "RelativeDocumentMoniker": "UsuarioRepository\\Program.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\UsuarioRepository\\Program.cs",
+              "RelativeToolTip": "UsuarioRepository\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvygAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:03:56.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240420024755_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Infrastructure\\Migrations\\20240420024755_inicial.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240420024755_inicial.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Infrastructure\\Migrations\\20240420024755_inicial.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240420024755_inicial.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:47:55.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\UsuarioRepository\\Domain\\Entities\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Domain\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\UsuarioRepository\\Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Domain\\Entities\\Usuario.cs",
               "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,55 +224,16 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Application.csproj",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\UsuarioRepository\\Application\\Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\UsuarioRepository\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Enrique\\Desktop\\Proyecto Sofware web\\MicroservicioUsuario\\Application\\Application.csproj",
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-20T01:55:30.816Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1076,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-04-20T01:55:30.816Z"
             }
           ]
         }

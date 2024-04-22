@@ -1,4 +1,8 @@
+using Application.Interfaces;
+using Application.UseCases.Usuarios;
+using Infrastructure.Command;
 using Infrastructure.Persistence;
+using Infrastructure.Query;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +18,11 @@ var connectionString = builder.Configuration["ConnectionString"];
 
 builder.Services.AddDbContext<UsuarioDbContext>(options => options.UseSqlServer(connectionString));
 
+//Cosas agregadas por enrique
+builder.Services.AddTransient<IServicesGetAll, ServicesGetAll>();
+builder.Services.AddScoped<IUsuarioServices, UsuarioServices>();
+builder.Services.AddScoped<IUsuarioQuery, UsuarioQuery>();
+builder.Services.AddScoped<IUsuarioCommand, UsuarioCommand>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
