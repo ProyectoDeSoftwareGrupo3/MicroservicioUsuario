@@ -1,15 +1,14 @@
-﻿namespace Application.Exceptions
+﻿namespace Application.Exceptions;
+
+public class ExceptionSintaxError : Exception
 {
-    public class ExceptionSintaxError : Exception
+    public ExceptionSintaxError() : base()
     {
-        public ExceptionSintaxError() : base()
-        {
-        }
-        public ExceptionSintaxError(string message) : base(message)
-        {
-        }
-        public ExceptionSintaxError(string message, Exception ex) : base(message)
-        {
-        }
+    }
+    public ExceptionSintaxError(string message) : base(message)
+    {
+    }
+    public ExceptionSintaxError(string message, Exception ex) : base(message)
+    {
     }
 }

@@ -1,13 +1,12 @@
-﻿namespace Application.Exceptions
-{
-    public class ExceptionNotFound : Exception
-    {
-        public ExceptionNotFound(string message) : base(message)
-        {
-        }
+﻿namespace Application.Exceptions;
 
-        public ExceptionNotFound(string message, Exception innerException) : base(message, innerException)
-        {
-        }
+public class ExceptionNotFound : Exception
+{
+    public ExceptionNotFound(string message) : base(message)
+    {
+    }
+
+    public ExceptionNotFound(string message, Exception innerException) : base(message, innerException)
+    {
     }
 }
